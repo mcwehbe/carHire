@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.rentalcars.pairing.hire.unit.vehicles.CarTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-10T10:45:16" hostname="C02C912BLVDP" time="0.006">
+  <properties/>
+  <testcase name="given_MakeisGoodAndModelIsGood_then_iGetTrue()" classname="uk.rentalcars.pairing.hire.unit.vehicles.CarTest" time="0.001"/>
+  <testcase name="given_MakeisBadAndModelIsBad_then_iGetFalse()" classname="uk.rentalcars.pairing.hire.unit.vehicles.CarTest" time="0.001"/>
+  <testcase name="given_MakeAndModelArePopulated_then_iGetDisplayName()" classname="uk.rentalcars.pairing.hire.unit.vehicles.CarTest" time="0.001"/>
+  <testcase name="given_MakeisGoodAndModelIsBad_then_iGetFalse()" classname="uk.rentalcars.pairing.hire.unit.vehicles.CarTest" time="0.001"/>
+  <testcase name="given_MakeisBadAndModelIsGood_then_iGetFalse()" classname="uk.rentalcars.pairing.hire.unit.vehicles.CarTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

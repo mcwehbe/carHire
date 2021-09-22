@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.rentalcars.pairing.hire.unit.reservation.ReservationValidatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-10T10:45:16" hostname="C02C912BLVDP" time="0.023">
+  <properties/>
+  <testcase name="when_ageIsSeventeen_then_ReservationIsValid()" classname="uk.rentalcars.pairing.hire.unit.reservation.ReservationValidatorTest" time="0.02"/>
+  <testcase name="when_ageIsSixteen_then_ReservationIsNotValid()" classname="uk.rentalcars.pairing.hire.unit.reservation.ReservationValidatorTest" time="0.001"/>
+  <testcase name="when_ageIsEighty_then_ReservationIsValid()" classname="uk.rentalcars.pairing.hire.unit.reservation.ReservationValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

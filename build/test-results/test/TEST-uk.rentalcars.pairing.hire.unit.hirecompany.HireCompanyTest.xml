@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.rentalcars.pairing.hire.unit.hirecompany.HireCompanyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-10T10:45:16" hostname="C02C912BLVDP" time="0.009">
+  <properties/>
+  <testcase name="when_bookingACar_then_theCarToBeAddedToReservedCars()" classname="uk.rentalcars.pairing.hire.unit.hirecompany.HireCompanyTest" time="0.004"/>
+  <testcase name="when_noCarsAreBooked_then_reservedCarsAreEmpty()" classname="uk.rentalcars.pairing.hire.unit.hirecompany.HireCompanyTest" time="0.001"/>
+  <testcase name="when_bookingACar_then_theCarToBeRemovedFromAvaliableCars()" classname="uk.rentalcars.pairing.hire.unit.hirecompany.HireCompanyTest" time="0.001"/>
+  <testcase name="when_carIsBooked_then_carIsNotAvailable()" classname="uk.rentalcars.pairing.hire.unit.hirecompany.HireCompanyTest" time="0.0"/>
+  <testcase name="when_carIsNotBooked_then_carIsAvailable()" classname="uk.rentalcars.pairing.hire.unit.hirecompany.HireCompanyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
